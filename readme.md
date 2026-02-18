@@ -61,8 +61,8 @@ pip install -r requirements.txt
 ###🏃 How to Run
 
 1.Clone the repo:
-     git clone https://github.com/SVChaithanya/Credit-Risk-Prediction-api.git
-      cd Credit-Risk-Prediction-api
+     git clone https://github.com/SVChaithanya/Fund-Fraud-Detection-API.git
+      cd Fund-Fraud-Detection-API
 2.Install dependencies:
      pip install -r requirements.txt
 3.Run the API locally:
@@ -107,4 +107,3 @@ pip install -r requirements.txt
 ├── requirements.txt     # Dependencies
 ├── logs/                # Prediction logs
 └── README.md
-
